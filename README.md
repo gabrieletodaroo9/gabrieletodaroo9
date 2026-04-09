@@ -8,10 +8,7 @@ Mi occupo di progettare architetture efficienti, curando ogni aspetto del dato, 
 
 ### 🛠️ Tech Stack
 
-| Area | Tecnologie |
-| :--- | :--- |
-| **Backend & DB** | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) |
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB1.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 ---
 
@@ -22,19 +19,20 @@ Mi occupo di progettare architetture efficienti, curando ogni aspetto del dato, 
 - **Back-office (Laravel):** Gestione centralizzata dei dati e pannello amministrativo.
 - **Front-office (React):** Interfaccia utente dinamica che consuma le **REST API**.
 
-| Back-office | Front-office |
-| :--- | :--- |
-| ![Back-office](https://github.com/user-attachments/assets/5b3899b4-ae21-4703-90aa-d20089aefd8e) | ![Front-office](https://github.com/user-attachments/assets/4468de95-c642-4529-bd2a-b0c542a80664) |
+<p align="left">
+  <img src="assets/sanremo.dashboard.png" width="45%" alt="Back-office Preview" style="margin-right: 10px;">
+  <img src="assets/sanremo.edizioni.png" width="45%" alt="Front-office Preview">
+</p>
 
 ---
 
 #### 🌌 [StarDisk](https://github.com/gabrieletodaroo9/stardisk-sito-web)
 *Team Project*
 - **Il mio ruolo:** Sviluppo del comparto **Frontend** e progettazione del **carrello**.
-- **Stack:** Utilizzo di **React** per la creazione di endpoint performanti.
+- **Stack:** Utilizzo di **React** per la creazione di pagine performanti.
 - **Learning:** Gestione del flusso di lavoro in team e integrazione tra micro-servizi.
 
-<img src="https://github.com/user-attachments/assets/2d998c68-3550-482a-852c-d68d2afcb9ff" width="350" alt="StarDisk Preview">
+<img src="assets/stardisk.home.png" width="350" alt="StarDisk Preview">
 
 ---
 
